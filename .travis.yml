@@ -6,4 +6,4 @@ before_script:
   - npm install newman --global
 
 script:
-  - newman run sample_service.postman_collection
+  - newman run google.postman_collection
